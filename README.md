@@ -30,7 +30,8 @@ Early detection of pneumonia from chest X-rays is critical for timely medical in
 ---
 
 ## 👥 Team Members
-* **AnanyaSKengasur** 
-* **AmruthaTarapur** 
-* **DericaJoy** 
-* **TapasyaPrabhu** 
+* **AnanyaSKengasur** - 01fe24bbt008
+* **AmruthaTarapur**  - 01fe24bbt030
+* **DericaJoy**       - 01fe24bbt002
+* **TapasyaPrabhu**   - 01fe24bbt034
+ 
